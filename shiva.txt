@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kdjv;dfbvisubvkjdsf;vbkf;djb;karvfdjks.kj
+=======
+Hi Badam
+>>>>>>> 07d50f3659d5238673d9f6ff819dcc1dbc0ed295
